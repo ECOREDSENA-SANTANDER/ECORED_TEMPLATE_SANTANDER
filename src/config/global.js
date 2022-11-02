@@ -140,7 +140,7 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        cargo: 'Responsable del equipo de diseño instruccional',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -178,6 +178,11 @@ export default {
       },
     ],
     gestoresRepositorio: [
+      {
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Responsable del equipo de gestión de repositorio',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
       {
         nombre: 'Álvaro Andrés Angarita Ramirez',
         cargo: 'Validación y vinculación en plataforma LMS',
