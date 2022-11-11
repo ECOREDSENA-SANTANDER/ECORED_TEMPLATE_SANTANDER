@@ -149,6 +149,21 @@ export default {
         cargo: '',
         centro: '',
       },
+      {
+        nombre: '',
+        cargo: '',
+        centro: '',
+      },
+      {
+        nombre: '',
+        cargo: '',
+        centro: '',
+      },
+      {
+        nombre: '',
+        cargo: '',
+        centro: '',
+      },
     ],
     desarrolloProducto: [
       {
