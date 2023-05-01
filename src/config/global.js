@@ -111,12 +111,12 @@ export default {
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Término',
+      significado: 'Texto de la definición',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: '<em>Término con extranjerismo</em>',
+      significado: 'Definición',
     },
   ],
   referencias: [
