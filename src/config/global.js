@@ -84,6 +84,11 @@ export default {
         nombreRuta: 'referencias',
       },
       {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/prueba.pdf',
+      },
+      {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
@@ -135,9 +140,10 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
       ],
     },
@@ -147,7 +153,8 @@ export default {
         {
           nombre: 'Nombre responsable',
           cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
       ],
     },
@@ -157,17 +164,20 @@ export default {
         {
           nombre: 'Nombre responsable',
           cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Nombre responsable',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Nombre',
           cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
       ],
     },
@@ -175,14 +185,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Zuleidy María Ruiz Torres',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Luis Gabriel Urueta Alvarez',
+          cargo: 'Validación y vinculación en plataforma LMS',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
       ],
     },
