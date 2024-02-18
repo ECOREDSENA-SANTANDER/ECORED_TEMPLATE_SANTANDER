@@ -135,15 +135,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de Línea de Producción',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },
@@ -154,7 +154,7 @@ export default {
           nombre: 'Nombre responsable',
           cargo: 'Nombre del rol',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },
@@ -165,25 +165,25 @@ export default {
           nombre: 'Nombre responsable',
           cargo: 'Diseñador de Contenidos Digitales',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Nombre responsable',
           cargo: 'Desarrollador Fullstack',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Nombre',
           cargo: 'Animador y Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Nombre',
           cargo: 'Actividad Didáctica',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },
@@ -191,23 +191,29 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
           nombre: 'Luis Gabriel Urueta Alvarez',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Jaime Hernan Tejada',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Centro de Servicios de Salud - Regional Antioquia',
         },
+        {
+          nombre: 'Margarita Marcela Medrano',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro de Servicios de Salud - Regional Antioquia',
+        }
       ],
     },
   ],
